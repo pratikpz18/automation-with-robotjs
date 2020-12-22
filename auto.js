@@ -28,10 +28,10 @@ function openchrome(){
 		robot.mouseClick();
 		robot.moveMouseSmooth(268,18);
 		robot.mouseClick();
-		robot.setMouseDelay(200);
+		robot.setMouseDelay(500);
 		robot.typeString("web whatsapp");
 		robot.keyTap("enter");
-	},600)
+	},1000)
 	setTimeout(()=>{
 		robot.moveMouseSmooth(226,375);
 		robot.mouseClick();
