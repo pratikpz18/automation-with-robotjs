@@ -1,2 +1,2 @@
 # automation-with-robotjs
-by making use of robot.js i automated some of my tasks.
+by making use of robot.js automated some of the regular tasks.
